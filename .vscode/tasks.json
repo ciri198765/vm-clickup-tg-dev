@@ -1,0 +1,10 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "remove logs",
+			"command": "rm -r ./app/logs/*"
+		}
+	]
+}
